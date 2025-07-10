@@ -6,7 +6,7 @@ scikit-learn
 matplotlib
 streamlit
 localtunnel
-vllm==0.6.6.post1
+vllm
 bitsandbytes==0.45.0
 triton==3.1.0
 trl==0.13.0
