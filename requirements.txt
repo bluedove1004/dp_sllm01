@@ -1,7 +1,16 @@
-streamlit
 torch
 transformers
 pandas
 numpy
 scikit-learn
 matplotlib
+
+streamlit==1.41.1
+localtunnel
+vllm==0.6.6.post1
+bitsandbytes==0.45.0
+triton==3.1.0
+trl==0.13.0
+datasets==3.2.0
+bitsandbytes==0.45.0
+peft==1.26.4
