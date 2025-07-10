@@ -7,9 +7,9 @@ matplotlib
 streamlit
 localtunnel
 vllm
-bitsandbytes==0.45.0
-triton==3.1.0
-trl==0.13.0
-datasets==3.2.0
-bitsandbytes==0.45.0
-peft==1.26.4
+bitsandbytes
+triton
+trl
+datasets
+bitsandbytes
+peft
