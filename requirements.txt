@@ -4,8 +4,7 @@ pandas
 numpy
 scikit-learn
 matplotlib
-
-streamlit==1.41.1
+streamlit
 localtunnel
 vllm==0.6.6.post1
 bitsandbytes==0.45.0
